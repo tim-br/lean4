@@ -1,6 +1,6 @@
 {
-  "language": "Lean 4",
-  "slug": "lean4",
+  "language": "Lean",
+  "slug": "lean",
   "active": false,
   "status": {
     "concept_exercises": false,
@@ -8,7 +8,7 @@
     "representer": false,
     "analyzer": false
   },
-  "blurb": "Lean 4 is a functional programming language and theorem prover, designed for writing mathematical proofs and verified software.",
+  "blurb": "Lean is a functional programming language and theorem prover, designed for writing mathematical proofs and verified software.",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
