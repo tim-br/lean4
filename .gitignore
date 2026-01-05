@@ -5,4 +5,8 @@ bin/configlet.exe
 bin/latest-configlet.tar.gz
 bin/latest-configlet.zip
 bin/configlet.zip
-exercises/practice/hello-world/.lake
+
+# Lake build artifacts
+.lake/
+lake-manifest.json
+exercises/practice/darts/lake-manifest.json exercises/practice/hello-world/lake-manifest.json
