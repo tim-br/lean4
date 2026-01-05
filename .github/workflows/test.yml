@@ -24,5 +24,8 @@ jobs:
           curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh -s -- -y --default-toolchain none
           echo "$HOME/.elan/bin" >> $GITHUB_PATH
 
+      - name: Check vendor files are in sync with templates
+        run: bin/update-from-templates
+
       - name: Verify all exercises
         run: bin/verify-exercises
