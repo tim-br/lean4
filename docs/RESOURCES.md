@@ -1,13 +1,6 @@
 # Resources
 
-<!-- TODO: write document
-
-  This document should link to useful resources.
-
-  Feel free to link to any good resources you know, whether they
-  be websites, videos, mailing lists, etc.
-
-  The contents of this document are displayed on the track's documentation
-  page at `https://exercism.org/docs/tracks/<track>/resources`.
-
-  See https://exercism.org/docs/building/tracks/docs for more information. -->
+- [Lean 4 Documentation](https://lean-lang.org/documentation/)
+- [Lean 4 Zulip Chat](https://leanprover.zulipchat.com/) - The main community chat
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) - An introductory book
+- [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/) - For theorem proving
